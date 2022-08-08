@@ -1,0 +1,22 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sifengqingsu/game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sifengqingsu/game/issues"
+  },
+  "homepage": "https://github.com/sifengqingsu/game#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
